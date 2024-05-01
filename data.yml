@@ -1,0 +1,4 @@
+train: Pothole.v1-raw.voc/train
+val: Pothole.v1-raw.voc/test
+
+names:['Pothole']
